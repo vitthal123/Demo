@@ -1,3 +1,0 @@
-1. Create a procedure to check if the entered OTP number is the latest OTP for the given mobile number, return 'SUCCESS' if true, else 'FAILURE'.
-
-2. Write a query to fetch employee id, name, email and department of the 6th highest salary from the employee table
